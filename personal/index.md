@@ -1,4 +1,7 @@
-## Random personal stuff
+---
+title: Personal stuff
+type: page
+---
 
-- [Books]("/personal/books")
-- [Movies]("/personal/movies")
+- [Books](/personal/books)
+- [Movies](/personal/movies)

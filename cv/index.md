@@ -1,5 +1,6 @@
 ---
 title: CV
+type: page
 ---
 
 # James Go
