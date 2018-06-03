@@ -1,5 +1,4 @@
 ---
-title: jamescookgo
 layout: home
 ---
 
