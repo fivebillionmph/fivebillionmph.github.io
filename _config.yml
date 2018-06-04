@@ -2,5 +2,4 @@ remote_theme: jekyll/minima
 title: jamescookgo
 #description: baseball and biology
 header_pages:
-  - cv/index.md
   - personal/index.md
