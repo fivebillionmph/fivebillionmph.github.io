@@ -1,6 +1,5 @@
 ---
 title: Movies list
-type: post
 ---
 
 My movies watched list  

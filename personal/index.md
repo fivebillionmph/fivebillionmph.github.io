@@ -1,7 +1,6 @@
 ---
 title: Personal stuff
-type: page
 ---
 
-- [Books tracker](/personal/books)
-- [Movies tracker](/personal/movies)
+- [Books list](/personal/books)
+- [Movies list](/personal/movies)
