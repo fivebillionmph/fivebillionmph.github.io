@@ -1,0 +1,32 @@
+/* CSS Reset */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html, body {
+	font-family: Arial, sans-serif;
+	line-height: 1.6;
+}
+
+div.thin-page {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+	background-color: white;
+	min-height: 100vh;
+}
+
+div.background {
+	background-color: #CCC;
+	min-height: 100vh;
+}
+
+nav.header {
+	padding-bottom: 1rem;
+}
+
+section {
+	padding-bottom: 1rem;
+}
