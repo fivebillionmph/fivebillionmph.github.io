@@ -33,7 +33,7 @@ section {
 
 .finished-list-grid {
 	display: grid;
-	grid-template-columns: min-content auto;
+	grid-template-columns: max-content auto;
 	gap: 0.5rem;
 }
 
